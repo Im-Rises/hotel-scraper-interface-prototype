@@ -6,7 +6,7 @@ class RoomEvent {
     required this.description,
   });
 
-  final DateTime date;
+  final String date;
   final String description;
 }
 

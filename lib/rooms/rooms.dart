@@ -8,37 +8,55 @@ class RoomsScreen extends StatelessWidget {
 
   static List<Room> roomList = [
     Room(
-      name: '102',
+      name: 'Moris Grands Boulevards',
       state: 'ok',
       alertStatus: 'resolved',
       events: [
-        RoomEvent(
-            date: DateTime.parse('2022-04-01 22:00:00Z'), description: 'Cough'),
-        RoomEvent(
-            date: DateTime.parse('2022-04-01 23:00:00Z'), description: 'Cry'),
+        RoomEvent(date: '2022-06-11', description: 'start date'),
+        RoomEvent(date: '2022-06-12', description: 'end date'),
       ],
     ),
     Room(
-      name: '103',
-      state: 'alert',
-      alertStatus: 'alert',
+      name: 'Hôtel de Banville',
+      state: 'ok',
+      alertStatus: 'resolved',
       events: [
-        RoomEvent(date: DateTime.now(), description: 'Cough'),
+        RoomEvent(date: '2022-06-11', description: 'start date'),
+        RoomEvent(date: '2022-06-12', description: 'end date'),
       ],
     ),
-    Room(name: '104', state: 'ok', alertStatus: 'resolved', events: []),
-    Room(name: '105', state: 'ok', alertStatus: 'resolved', events: []),
     Room(
-        name: '106',
-        state: 'alert',
-        alertStatus: 'onInvestigation',
-        events: []),
-    Room(name: '107', state: 'ok', alertStatus: 'resolved', events: []),
+      name: 'Grand Hôtel Amelot',
+      state: 'ok',
+      alertStatus: 'resolved',
+      events: [
+        RoomEvent(date: '2022-06-11', description: 'start date'),
+        RoomEvent(date: '2022-06-12', description: 'end date'),
+      ],
+    ),
+    Room(
+      name: 'hotelF1 Paris Porte de Châtillon',
+      state: 'ok',
+      alertStatus: 'resolved',
+      events: [
+        RoomEvent(date: '2022-06-11', description: 'start date'),
+        RoomEvent(date: '2022-06-12', description: 'end date'),
+      ],
+    ),
+    Room(
+      name: 'Grand Hotel Francais',
+      state: 'ok',
+      alertStatus: 'resolved',
+      events: [
+        RoomEvent(date: '2022-06-11', description: 'start date'),
+        RoomEvent(date: '2022-06-12', description: 'end date'),
+      ],
+    )
   ];
 
   Widget _buildRoom(BuildContext context, Room room) {
     return ListTile(
-      title: Text('Chambre ' + room.name),
+      title: Text(room.name),
       trailing: Icon(
         room.getIcon(),
         color: room.getColor(),
