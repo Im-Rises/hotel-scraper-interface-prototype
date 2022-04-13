@@ -3,6 +3,7 @@ import 'package:hotel_scraper_interface/menu/menu.dart';
 import 'package:hotel_scraper_interface/global/navigation.dart';
 import 'package:hotel_scraper_interface/reports/reports.dart';
 import 'package:hotel_scraper_interface/rooms/rooms.dart';
+import 'package:hotel_scraper_interface/Maps/maps.dart';
 
 class LipsterAdminApp extends StatelessWidget {
   const LipsterAdminApp({Key? key}) : super(key: key);
@@ -38,8 +39,9 @@ class LipsterAdminHomePage extends StatefulWidget {
 class _LipsterAdminHomePageState extends State<LipsterAdminHomePage> {
   int _selectedIndex = 0;
 
-  static const List<Widget> _navPageOptions = <Widget>[
+  List<Widget> _navPageOptions = <Widget>[
     RoomsScreen(),
+    Maps(),
     // EventScreen(),
     MenuScreen(),
     ReportsScreen(),
