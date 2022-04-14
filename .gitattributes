@@ -1,0 +1,23 @@
+# CMake files
+*.txt linguist-vendored
+*.cmake linguist-vendored
+flutter_tests/linux/** linguist-vendored
+flutter_tests/windows/** linguist-vendored
+
+# C, C++ files
+*.c linguist-vendored
+*.cc linguist-vendored
+*.h linguist-vendored
+*.cpp linguist-vendored
+*.hpp linguist-vendored
+
+# HTML files
+*.html linguist-vendored
+*.htm linguist-vendored
+
+# Swift files
+*.swift linguist-vendored
+
+# Java files
+*.java linguist-vendored
+*.jar linguist-vendored
