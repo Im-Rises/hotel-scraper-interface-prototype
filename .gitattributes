@@ -1,8 +1,8 @@
 # CMake files
 *.txt linguist-vendored
 *.cmake linguist-vendored
-flutter_tests/linux/** linguist-vendored
-flutter_tests/windows/** linguist-vendored
+src/linux/** linguist-vendored
+src/windows/** linguist-vendored
 
 # C, C++ files
 *.c linguist-vendored
