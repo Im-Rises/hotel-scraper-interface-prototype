@@ -21,3 +21,6 @@ src/windows/** linguist-vendored
 # Java files
 *.java linguist-vendored
 *.jar linguist-vendored
+
+# Kotlin files
+*.kt
