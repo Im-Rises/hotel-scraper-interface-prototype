@@ -2,7 +2,13 @@
 
 ## Description
 
-Test project for locating and display datas about hotels in Paris according to a specific research.
+Test project for locating and display datas about hotels in Paris according to a specific research.  
+The program is made in Flutter, making the app available for all kinds of system :
+- Windows
+- Linux
+- Max
+- Android
+- iOS
 
 ## Functionnalities
 
