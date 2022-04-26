@@ -1,4 +1,4 @@
-# hotel-scraper-interface
+# Hotel-scraper-interface
 
 ## Description
 
