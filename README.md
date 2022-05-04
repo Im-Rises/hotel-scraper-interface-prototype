@@ -39,3 +39,11 @@ Quentin Morel :
 
 - @Im-Rises
 - <https://github.com/Im-Rises>
+
+## Documentations
+
+Flutter components :  
+<https://material.io/components>
+
+Search an API :  
+<https://pub.dev/>
