@@ -1,4 +1,4 @@
-# Hotel-scraper-interface
+# hotel-scraper-interface-prototype
 
 ## Description
 
@@ -27,3 +27,15 @@ The program is made in Flutter, making the app available for all kinds of system
 | Statistics page |
 | --- |
 | ![Image3](Readme_files/image3.png) |
+
+## Contributors
+
+Clément Reiffers :
+
+- @clementreiffers
+- <https://github.com/clementreiffers>
+
+Quentin Morel :
+
+- @Im-Rises
+- <https://github.com/Im-Rises>
