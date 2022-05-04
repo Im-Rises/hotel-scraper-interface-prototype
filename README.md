@@ -2,6 +2,11 @@
 
 ## Description
 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+</p>
+
 Test project for locating and display datas about hotels in Paris according to a specific research.  
 The program is made in Flutter, making the app available for all kinds of system :
 
