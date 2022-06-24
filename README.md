@@ -25,25 +25,13 @@ The program is made in Flutter, making the app available for all kinds of system
 
 ## Images
 
-| Main page | Map page |
-| --- | --- |
+| Main page                          | Map page                           |
+|------------------------------------|------------------------------------|
 | ![Image1](Readme_files/image1.png) | ![Image2](Readme_files/image2.png) |
 
-| Statistics page |
-| --- |
+| Statistics page                    |
+|------------------------------------|
 | ![Image3](Readme_files/image3.png) |
-
-## Contributors
-
-Clément Reiffers :
-
-- @clementreiffers
-- <https://github.com/clementreiffers>
-
-Quentin Morel :
-
-- @Im-Rises
-- <https://github.com/Im-Rises>
 
 ## Documentations
 
@@ -52,3 +40,17 @@ Flutter components :
 
 Search an API :  
 <https://pub.dev/>
+
+## Contributors
+
+Quentin Morel :
+
+- @Im-Rises
+- <https://github.com/Im-Rises>
+
+Clément Reiffers :
+
+- @clementreiffers
+- <https://github.com/clementreiffers>
+
+[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/hotel-scraper-interface-prototype)](https://github.com/Im-Rises/hotel-scraper-interface-prototype/graphs/contributors)
