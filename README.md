@@ -16,10 +16,10 @@ The program is made in Flutter, making the app available for all kinds of system
 - Android
 - iOS
 
-## Functionnalities
+## Functionalities
 
 - Search hotels.
-- Diplay informations about the hotel (price, location, review score rate, etc...).
+- Display information about the hotel (price, location, review score rate, etc...).
 - Show hotels on map.
 - Show graph about the evolution of the prices of hotels each month.
 
@@ -53,4 +53,4 @@ Clément Reiffers :
 - @clementreiffers
 - <https://github.com/clementreiffers>
 
-[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/hotel-scraper-interface-prototype)](https://github.com/Im-Rises/hotel-scraper-interface-prototype/graphs/contributors)
+[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/hotel-scraper-interface-prototype&max=2)](https://github.com/Im-Rises/hotel-scraper-interface-prototype/graphs/contributors)
